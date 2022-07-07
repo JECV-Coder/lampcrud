@@ -2,7 +2,7 @@
 	$conn = mysqli_connect(
 		'localhost',
 		'root',
-		'Administrador',
+		'ContraseñaAqui',
 		'usuarios'
 	);
 ?>
